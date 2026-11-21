@@ -1,0 +1,21 @@
+﻿{
+    "related_ca_folder":  "ca03-bm02-Felipe",
+    "ca_id":  "ca03",
+    "bm_id":  "bm02",
+    "operator":  "Felipe",
+    "ga_measurement_id":  "G-PTY57M66PW",
+    "full_url":  "https://nui.uteishub.com",
+    "subdomain":  "nui",
+    "github_repo":  "DougsCorp/Felipe-bm02-ca03",
+    "status":  "deployed",
+    "product":  "CogniClear",
+    "notes":  "Subdominio nui em uteishub.com; quiz v2 na slug /quiz-mm-v2/; xvh/calculatesupply permanece em ca03-bm02-Felipe",
+    "domain":  "uteishub.com",
+    "pages":  [
+                  {
+                      "path":  "/quiz-mm-v2/",
+                      "template":  "Quiz-ps-CogniClear-v2",
+                      "type":  "ps"
+                  }
+              ]
+}
